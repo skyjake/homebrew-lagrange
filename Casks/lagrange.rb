@@ -1,6 +1,6 @@
 cask "lagrange" do
-  version "0.13.1"
-  sha256 "1aff48af99579b8fb7c4b0a53430a8434f2a69877f88069bb4d1de2fb41cecd9"
+  version "0.13.2"
+  sha256 "c700d64137f44b689f448f1c812ee80e5c93591dcdced54d866ffb8a9d1041f5"
 
   url "https://git.skyjake.fi/skyjake/lagrange/releases/download/v#{version}/lagrange_v#{version}_macos10.13-x86_64.tbz"
   appcast "https://github.com/skyjake/lagrange/releases.atom"
